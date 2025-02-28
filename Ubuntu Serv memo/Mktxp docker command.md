@@ -1,0 +1,1 @@
+sudo docker run -v "$(pwd)/mktxp:/home/mktxp/mktxp" -p 49090:49090 -it --rm ghcr.io/akpw/mktxp:latest
