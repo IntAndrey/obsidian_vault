@@ -2,4 +2,5 @@ Pdb PDB-PT747-4648
 PS  PWS-2K03P-1R 2000 Wt
 PWS-2K05A-1R 2000Wt
 PWS-2K04A-1R
+PWS-1K25P-PQ Delta DPS-1200QB
 [Supermicro psu cable list](https://www.supermicro.com/products/nfo/files/power_supply/psu_cablelist.pdf) 
