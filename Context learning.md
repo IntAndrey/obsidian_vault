@@ -1,2 +1,2 @@
 Лаборатория T-Bank AI Research и Институт AIRI представили миру разработку, которая способна самостоятельно адаптироваться к новым действиям. ИИ-модель Headless-AD  — первая в мире система контекстного обучения (In-Context Learning)
-Githib [[]]
+Githib https://github.com/corl-team/headless-ad
