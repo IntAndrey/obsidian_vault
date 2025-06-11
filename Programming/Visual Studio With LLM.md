@@ -1,0 +1,3 @@
+AI buddy extension
+
+#llmprogramming
