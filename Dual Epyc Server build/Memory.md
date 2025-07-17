@@ -8,3 +8,4 @@ HMCGY4MEBQB218N
 M321R6GA3BB0-CQK samsung 2Rx8 48GB
 
 1688 64GB по 800 [[https://detail.1688.com/offer/827264819141.html?spm=a26352.13672862.offerlist.25.fca51e62yqkoxL]]
+1688 32 по 144 100 штук [[https://detail.1688.com/offer/951351248191.html?spm=a26352.13672862.offerlist.9.743d1e62fGRTN0]]
