@@ -9,3 +9,7 @@ M321R6GA3BB0-CQK samsung 2Rx8 48GB
 
 1688 64GB по 800 [[https://detail.1688.com/offer/827264819141.html?spm=a26352.13672862.offerlist.25.fca51e62yqkoxL]]
 1688 32 по 144 100 штук [[https://detail.1688.com/offer/951351248191.html?spm=a26352.13672862.offerlist.9.743d1e62fGRTN0]]
+
+M321RYGA0PB0-CWM 96gb DDR5 5600 по 300 [[https://detail.1688.com/offer/918376022290.html?spm=a26352.13672862.offerlist.44.304f1e62R48HX1]]
+
+M321RYGA0PB2-CCP DDR5 96GB 6400 [[https://detail.1688.com/offer/889008927100.html?spm=a26352.13672862.offerlist.28.304f1e62R48HX1]]
