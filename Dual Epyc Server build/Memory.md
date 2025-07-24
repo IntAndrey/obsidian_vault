@@ -17,3 +17,5 @@ M321RYGA0PB2-CCP DDR5 96GB 6400 [[https://detail.1688.com/offer/889008927100.htm
 [[https://detail.1688.com/offer/915132141254.html?spm=a26352.13672862.offerlist.389.304f1e62R48HX1]] MTC20F1045S1RC48B DDR5 RDIMM Memory 32GB
 
 900 Юаней DDR5-ECB-RDIMM-48GB-2RX8 PC5-4800B-RED-HMCGY8MEBRB216N/AA [[https://detail.1688.com/offer/889295848105.html?spm=a26352.13672862.offerlist.189.1ed11e62mYJ4yC]]
+
+[[https://shop59718256.taobao.com/?spm=pc_detail.29232929.shop_block.dshopinfo.16097dd6wQPkz6]] shop where sell DDR5 48 by 800 
