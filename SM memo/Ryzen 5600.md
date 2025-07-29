@@ -1,1 +1,2 @@
 https://detail.1688.com/offer/952743949346.html?offerId=952743949346&spm=a260k.home2025.recommendpart.99 по 258
+https://detail.1688.com/offer/952136910619.html?spm=a261y.7663282.3002526303362591.2.7e7e6cf1aTjcsf&sk=order
