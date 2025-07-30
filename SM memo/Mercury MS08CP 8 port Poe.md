@@ -10,3 +10,5 @@ https://detail.1688.com/offer/952730153784.html?_t=1753782544625&spm=a2615.76914
 MCS1116D-P
 
 https://item.taobao.com/item.htm?abbucket=12&id=756823319490& # SG116DM
+https://detail.1688.com/offer/952730153784.html?spm=a26352.13672862.offerlist.4.500a1e62eGDOqU MCS1116D-P
+https://detail.1688.com/offer/575657342698.html?spm=a26352.13672862.offerlist.5.63671e62suuwts SG116
