@@ -1,0 +1,1 @@
+https://forums.anandtech.com/threads/gigabyte-mz73-lm0-upgraded-vrm-heatsinks.2627875/
