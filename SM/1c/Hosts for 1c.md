@@ -1,0 +1,14 @@
+127.0.0.1 pult.1c.ru
+127.0.0.1 pult.1c.eu
+127.0.0.1 pult.1c.com
+127.0.0.1 update-api.1c.ru
+127.0.0.1 cv8update.com
+127.0.0.1 1cv8update.com
+127.0.0.1 portal-support.1c.ru
+127.0.0.1 unf-stat1c-gpt-msk.1c.ru
+127.0.0.1 reputils.1c.ru
+127.0.0.1 login.1c.ru
+127.0.0.1 portal.1c.ru
+127.0.0.1 portal-monitor.1c.ru
+127.0.0.1 unf-stat1c-gpt-msk.1c.ru
+127.0.0.1 nfo-report.1c.ru
