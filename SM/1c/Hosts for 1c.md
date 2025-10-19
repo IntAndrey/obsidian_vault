@@ -12,3 +12,5 @@
 127.0.0.1 portal-monitor.1c.ru
 127.0.0.1 unf-stat1c-gpt-msk.1c.ru
 127.0.0.1 nfo-report.1c.ru
+
+#1c
