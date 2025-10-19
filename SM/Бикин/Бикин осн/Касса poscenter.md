@@ -58,3 +58,4 @@ E-mail отправит.:   no-reply@ofd.yandex.ru
  [Торговля маркированными товарами]
 Признак агента
  Нет
+#cashRegister #SM
