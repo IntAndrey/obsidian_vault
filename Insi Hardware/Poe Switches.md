@@ -1,0 +1,2 @@
+MS10CPS 10 ports 100Mb
+MSL10CPS 10 ports  100Mb + 2 1Gb
