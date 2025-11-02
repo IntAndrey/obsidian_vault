@@ -1,0 +1,19 @@
+A @→94.228.217.158
+A gam→212.19.21.52
+A knt→37.29.94.214
+A mshk→87.225.104.224
+A per→93.170.251.121
+A suv→212.19.12.101
+A terminal→87.225.91.33
+CNAME calendar→ghs.google.com.
+CNAME docs→ghs.google.com.
+CNAME mail→ghs.google.com.
+CNAME start→ghs.google.com.
+MX @→aspmx.l.google.com.1
+MX @→alt1.aspmx.l.google.com.5
+MX @→alt2.aspmx.l.google.com.5
+MX @→aspmx2.googlemail.com.10
+MX @→aspmx3.googlemail.com.10
+MX @→aspmx4.googlemail.com.20
+MX @→aspmx5.googlemail.com.20
+TXT gidenergy._domainkey→v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4kYN+vW2nGQcxWdWBKcBTF5lKmcW2Ydlnv8Yy4kRm7E24j/QTExDR3zX4n9g7TYyn0vrKvsEGs2+HeThwUpLoi59k/zniWgxDR3YgPPCo9rBCh09mPHV/o4QIxmD3jaTqeLtnthdr7eNUp1X1xegueWGi7EgGiGERF5Qz7Y7/2wIDAQAB
