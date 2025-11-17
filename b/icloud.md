@@ -1,2 +1,0 @@
-Viktoriya_simonova96@mail.ru
-Vs72150613
