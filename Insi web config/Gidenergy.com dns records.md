@@ -17,3 +17,4 @@ MX @→aspmx3.googlemail.com.10
 MX @→aspmx4.googlemail.com.20
 MX @→aspmx5.googlemail.com.20
 TXT gidenergy._domainkey→v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4kYN+vW2nGQcxWdWBKcBTF5lKmcW2Ydlnv8Yy4kRm7E24j/QTExDR3zX4n9g7TYyn0vrKvsEGs2+HeThwUpLoi59k/zniWgxDR3YgPPCo9rBCh09mPHV/o4QIxmD3jaTqeLtnthdr7eNUp1X1xegueWGi7EgGiGERF5Qz7Y7/2wIDAQAB
+
