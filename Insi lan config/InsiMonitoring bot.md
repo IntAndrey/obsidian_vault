@@ -7,4 +7,5 @@ Keep your token secure and store it safely, it can be used by anyone to control 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
 chatID  712026076
+group chat id -5027761562
 #monitoring
