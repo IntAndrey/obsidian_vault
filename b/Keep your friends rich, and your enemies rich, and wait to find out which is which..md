@@ -1,0 +1,2 @@
+
+"Keep your friends rich, and your enemies rich, and wait to find out which is which."
