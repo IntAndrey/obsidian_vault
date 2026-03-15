@@ -1,0 +1,1 @@
+https://hub.docker.com/r/wiktorbgu/amneziawg-mikrotik
